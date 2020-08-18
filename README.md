@@ -2,7 +2,7 @@
 
 I'm Omar! I love programming and I'm interested in: ML, Android, Blockchain, RaspberryPi, Arduino, & lots of geeky stuff 🔥💻🔥
 
-### Blog posts
+### 📕 Blog posts
 
 I publish articles when I feel I know enough on a subject and I can properly share my knowledge 📖
 
