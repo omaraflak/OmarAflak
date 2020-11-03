@@ -6,9 +6,9 @@ Check out my CV at [github.com/omaraflak/cv](https://github.com/OmarAflak/CV/blo
 
 ### 📕 Blog posts
 
-I publish articles when I feel I know enough on a subject and I can properly share my knowledge 📖
+I publish articles when I feel like I know enough to properly share my knowledge 📖
 
-So checkout my posts on Medium: [medium.com/@omaraflak](https://medium.com/@omaraflak).
+You can find my posts on Medium: [medium.com/@omaraflak](https://medium.com/@omaraflak).
 
 Here are some of my favorites:
 
