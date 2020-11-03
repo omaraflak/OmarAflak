@@ -2,7 +2,7 @@
 
 I'm Omar! I love programming and I'm interested in: ML, Android, Blockchain, RaspberryPi, Arduino, & lots of geeky stuff 🔥💻🔥
 
-Checkout my CV at [github.com/omaraflak/cv](https://github.com/OmarAflak/CV/blob/master/cv.pdf) !
+Check out my CV at [github.com/omaraflak/cv](https://github.com/OmarAflak/CV/blob/master/cv.pdf) !
 
 ### 📕 Blog posts
 
