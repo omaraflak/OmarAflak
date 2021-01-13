@@ -4,6 +4,10 @@ I'm Omar! I love programming and I'm interested in: ML, Android, Blockchain, Ras
 
 Check out my CV at [github.com/omaraflak/cv](https://github.com/OmarAflak/CV/blob/master/cv.pdf) !
 
+### 🎥 YouTube
+
+[The Independent Code](https://www.youtube.com/channel/UC1OLIHvAKBQy3o5LcbbxUSg)
+
 ### 📕 Blog posts
 
 I publish articles when I feel like I know enough to properly share my knowledge 📖
