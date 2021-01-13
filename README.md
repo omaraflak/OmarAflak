@@ -6,7 +6,7 @@ Check out my CV at [github.com/omaraflak/cv](https://github.com/OmarAflak/CV/blo
 
 ### 🎥 YouTube
 
-[The Independent Code](https://www.youtube.com/channel/UC1OLIHvAKBQy3o5LcbbxUSg)
+I occasionally make videos on my YouTube channel: [The Independent Code](https://www.youtube.com/channel/UC1OLIHvAKBQy3o5LcbbxUSg).
 
 ### 📕 Blog posts
 
