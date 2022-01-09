@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Greetings 👋 My name is Omar! I'm a tech lover, I currently work at @Google London, UK. Hit me up if want to discuss crazy ambitious projects 🚀 💫 ✨ ...or just drink a tea 🧋
+Greetings 👋 My name is Omar! I'm a tech lover, I currently work at [Google](https://googlethatforyou.com?q=google) London, UK. Hit me up if want to discuss crazy ambitious projects 🚀 💫 ✨ ...or just drink a tea 🧋
 
 Some topics I like: Machine Learning, Blockchain, Android, CGI, RaspberryPi, Arduino, Math, & lots of geeky stuff 🔥💻🔥
 
