@@ -34,7 +34,7 @@ Here are some of my favorites:
 * [Ray Tracing from scratch in Python - Create computer generated images](https://medium.com/swlh/ray-tracing-from-scratch-in-python-41670e6a96f9?source=friends_link&sk=4edf81600f5c0941aa58907bbfb2151d)
 * [Mathematical optimization - Descent Algorithms, essence of ML](https://towardsdatascience.com/optimization-descent-algorithms-bf595f069788?source=friends_link&sk=38fb43899a52495b0ca6560c02764712)
 
-### GitHub pages
+### GitHub page
 
 Checkout my GitHub page that has some nice simulations: [https://omaraflak.github.io](https://omaraflak.github.io).
 
