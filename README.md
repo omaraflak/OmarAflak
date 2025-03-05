@@ -1,12 +1,10 @@
 # Hi there 👋
 
-Greetings 👋 My name is Omar! I'm a tech lover, I currently work at [Google](https://googlethatforyou.com?q=google) London, UK.
-
-Some topics I like: Machine Learning, Blockchain, Android, CGI, RaspberryPi, Arduino, Math, & lots of geeky stuff 🔥💻🔥
+Hi, I'm Omar! I'm a Software Engineer and currently work at [Google](https://googlethatforyou.com?q=google) London, UK.
 
 ### 🎥 YouTube
 
-I publish videos to my YouTube channel, mostly about programming & mathematics: [The Independent Code](https://www.youtube.com/channel/UC1OLIHvAKBQy3o5LcbbxUSg).
+I publish videos on my YouTube channel, mostly about programming & mathematics: [The Independent Code](https://www.youtube.com/channel/UC1OLIHvAKBQy3o5LcbbxUSg).
 
 <div align="center" style="display: flex; flex-direction: row;">
   <a href="https://youtu.be/pauPCy_s0Ok" title="Machine Learning Library From Scratch">
@@ -24,7 +22,7 @@ I publish videos to my YouTube channel, mostly about programming & mathematics: 
 
 ### 📕 Medium
 
-I publish articles when I feel like I know enough to properly share my knowledge 📖
+I write articles when I feel like I know enough to properly share my knowledge 📖
 
 You can find my posts on Medium: [medium.com/@omaraflak](https://medium.com/@omaraflak).
 
@@ -36,8 +34,8 @@ Here are some of my favorites:
 
 ### GitHub page
 
-Checkout my GitHub page that has some nice simulations: [https://omaraflak.github.io](https://omaraflak.github.io).
+Some random animations and simulations: [https://omaraflak.github.io](https://omaraflak.github.io).
 
 ### 📎 CV
 
-Check out my CV at [github.com/omaraflak/cv](https://github.com/OmarAflak/CV/blob/master/cv.pdf).
+CV at [github.com/omaraflak/cv](https://github.com/OmarAflak/CV/blob/master/cv.pdf).
