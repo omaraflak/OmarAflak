@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Hi, I'm Omar! I'm a Software Engineer and currently work at [Google](https://googlethatforyou.com?q=google) London, UK.
+Hi, I'm Omar! [[omaraflak.com](https://omaraflak.com)] I'm a Software Engineer and currently work at [Google](https://googlethatforyou.com?q=google) London, UK.
 
 ### 🎥 YouTube
 
@@ -20,21 +20,19 @@ I publish videos on my YouTube channel, mostly about programming & mathematics: 
   </a>
 </div>
 
-### 📕 Medium
+### 📕 Blogging
 
 I write articles when I feel like I know enough to properly share my knowledge 📖
 
-You can find my posts on Medium: [medium.com/@omaraflak](https://medium.com/@omaraflak).
+You can find my posts on [omaraflak.com](https://omaraflak.com).
 
 Here are some of my favorites:
 
-* [Mathematics of Neural Networks from scratch in Python - Create a ML library](https://towardsdatascience.com/math-neural-network-from-scratch-in-python-d6da9f29ce65?source=friends_link&sk=2776d172d7666cc74c6b0ed292a91b0b)
-* [Ray Tracing from scratch in Python - Create computer generated images](https://medium.com/swlh/ray-tracing-from-scratch-in-python-41670e6a96f9?source=friends_link&sk=4edf81600f5c0941aa58907bbfb2151d)
-* [Mathematical optimization - Descent Algorithms, essence of ML](https://towardsdatascience.com/optimization-descent-algorithms-bf595f069788?source=friends_link&sk=38fb43899a52495b0ca6560c02764712)
-
-### GitHub page
-
-Some random animations and simulations: [https://omaraflak.github.io](https://omaraflak.github.io).
+* [Neural Network From Scratch](https://omaraflak.com/articles/neural-network)
+* [Virtual Machine](https://omaraflak.com/articles/virtual-machine)
+* [Entropy](https://omaraflak.com/articles/entropy)
+* [Ray Tracing From Scratch](https://medium.com/swlh/ray-tracing-from-scratch-in-python-41670e6a96f9?source=friends_link&sk=4edf81600f5c0941aa58907bbfb2151d)
+* [Mathematical Optimization - Descent Algorithms, essence of ML](https://towardsdatascience.com/optimization-descent-algorithms-bf595f069788?source=friends_link&sk=38fb43899a52495b0ca6560c02764712)
 
 ### 📎 CV
 
