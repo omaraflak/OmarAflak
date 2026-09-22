@@ -28,6 +28,7 @@ You can find my posts on [omaraflak.com](https://omaraflak.com).
 
 Here are some of my favorites:
 
+* [Render a Wormhole](https://omaraflak.com/articles/wormhole)
 * [Neural Network From Scratch](https://omaraflak.com/articles/neural-network)
 * [Virtual Machine](https://omaraflak.com/articles/virtual-machine)
 * [Entropy](https://omaraflak.com/articles/entropy)
