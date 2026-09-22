@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Hi, I'm Omar! [[omaraflak.com](https://omaraflak.com)] I'm a Software Engineer and currently work at [Google](https://googlethatforyou.com?q=google) London, UK.
+Hi, I'm Omar! [[omaraflak.com](https://omaraflak.com)] I'm a Software Engineer and currently work at [Google](https://googlethatforyou.com?q=DeepMind) London, UK.
 
 ### 🎥 YouTube
 
