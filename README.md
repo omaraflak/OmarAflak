@@ -22,7 +22,7 @@ I publish videos on my YouTube channel, mostly about programming & mathematics: 
 
 ### 📕 Blogging
 
-You can find my posts on [omaraflak.com/blog](https://omaraflak.com/blog).
+You can find my posts on [omaraflak.com/blog](https://omaraflak.com/articles).
 
 Here are some of my favorites:
 
