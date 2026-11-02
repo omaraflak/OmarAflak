@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Hi, I'm Omar! [[omaraflak.com](https://omaraflak.com)] I'm a Software Engineer and currently work at [Google](https://googlethatforyou.com?q=DeepMind) London, UK.
+Hi, I'm Omar! [[omaraflak.com](https://omaraflak.com)] I'm a Software Engineer and currently work at [Google DeepMind](https://googlethatforyou.com?q=DeepMind) London, UK.
 
 ### 🎥 YouTube
 
@@ -22,9 +22,7 @@ I publish videos on my YouTube channel, mostly about programming & mathematics: 
 
 ### 📕 Blogging
 
-I write articles when I feel like I know enough to properly share my knowledge 📖
-
-You can find my posts on [omaraflak.com](https://omaraflak.com).
+You can find my posts on [omaraflak.com/blog](https://omaraflak.com/blog).
 
 Here are some of my favorites:
 
@@ -34,7 +32,3 @@ Here are some of my favorites:
 * [Entropy](https://omaraflak.com/articles/entropy)
 * [Ray Tracing From Scratch](https://medium.com/swlh/ray-tracing-from-scratch-in-python-41670e6a96f9?source=friends_link&sk=4edf81600f5c0941aa58907bbfb2151d)
 * [Mathematical Optimization - Descent Algorithms, essence of ML](https://towardsdatascience.com/optimization-descent-algorithms-bf595f069788?source=friends_link&sk=38fb43899a52495b0ca6560c02764712)
-
-### 📎 CV
-
-CV at [github.com/omaraflak/cv](https://github.com/OmarAflak/CV/blob/master/cv.pdf).
